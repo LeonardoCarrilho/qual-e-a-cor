@@ -2,6 +2,8 @@
 
 Gerador de cores aleatórias para descobrir cores CSS, feito com **HTML5, Bootstrap 5 e JavaScript**.
 
+🔗 **Ao vivo:** https://leonardocarrilho.github.io/qual-e-a-cor/
+
 ## Funcionalidades
 - Três modos: nomes de cores CSS, hexadecimal e RGB
 - Botão para copiar o código da cor
