@@ -1,6 +1,6 @@
 # 🎨 Qual é a cor?
 
-Gerador de cores aleatórias para descobrir cores CSS, feito com **HTML5, Bootstrap 5 e JavaScript**.
+Gerador de cores aleatórias para descobrir cores CSS, feito com **HTML, CSS e JavaScript**.
 
 🔗 **Ao vivo:** https://leonardocarrilho.github.io/qual-e-a-cor/
 
